@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\viewmodels\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:viewmodels\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\viewmodels\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:viewmodels\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\views\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:views\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\utilities\\statusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:utilities\\statusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\utilities\\sexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:utilities\\sexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\utilities\\sexradiobuttonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:utilities\\sexradiobuttonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\models\\roleaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:models\\roleaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\utilities\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:utilities\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\views\\accountview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:views\\accountview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\test_account.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:test_account.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\testaccountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:testaccountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|d:\\fpt\\term5\\pe\\prn212\\test-account-main\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{BD5F1615-A8B5-4FF9-9F21-02E2F6354E16}|Test_Account.csproj|solutionrelative:script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 346,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountView.xaml",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Views\\AccountView.xaml",
+              "RelativeDocumentMoniker": "Views\\AccountView.xaml",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Views\\AccountView.xaml",
+              "RelativeToolTip": "Views\\AccountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T14:30:58.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountVM.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\ViewModels\\AccountVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AccountVM.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\ViewModels\\AccountVM.cs",
+              "RelativeToolTip": "ViewModels\\AccountVM.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:08:46.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Utilities\\RelayCommand.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "Utilities\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:59:16.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:52:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T13:57:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T14:31:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SexRadioButtonConverter.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\SexRadioButtonConverter.cs",
+              "RelativeDocumentMoniker": "Utilities\\SexRadioButtonConverter.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\SexRadioButtonConverter.cs",
+              "RelativeToolTip": "Utilities\\SexRadioButtonConverter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:05:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SexConverter.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\SexConverter.cs",
+              "RelativeDocumentMoniker": "Utilities\\SexConverter.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\SexConverter.cs",
+              "RelativeToolTip": "Utilities\\SexConverter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:01:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleAccount.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Models\\RoleAccount.cs",
+              "RelativeDocumentMoniker": "Models\\RoleAccount.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Models\\RoleAccount.cs",
+              "RelativeToolTip": "Models\\RoleAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:18:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseVM.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\ViewModels\\BaseVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseVM.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\ViewModels\\BaseVM.cs",
+              "RelativeToolTip": "ViewModels\\BaseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:08:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusConverter.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\StatusConverter.cs",
+              "RelativeDocumentMoniker": "Utilities\\StatusConverter.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\StatusConverter.cs",
+              "RelativeToolTip": "Utilities\\StatusConverter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:03:23.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PasswordBoxHelper.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\PasswordBoxHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\PasswordBoxHelper.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Utilities\\PasswordBoxHelper.cs",
+              "RelativeToolTip": "Utilities\\PasswordBoxHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:00:03.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountView.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Views\\AccountView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AccountView.xaml.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Views\\AccountView.xaml.cs",
+              "RelativeToolTip": "Views\\AccountView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:34:28.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T13:54:52.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Test_Account.csproj",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Test_Account.csproj",
+              "RelativeDocumentMoniker": "Test_Account.csproj",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Test_Account.csproj",
+              "RelativeToolTip": "Test_Account.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T13:56:29.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Script.sql ",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Script.sql",
+              "RelativeDocumentMoniker": "Script.sql",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\Script.sql",
+              "RelativeToolTip": "Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-01T16:15:19.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestAccountContext.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\TestAccountContext.cs",
+              "RelativeDocumentMoniker": "TestAccountContext.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\TestAccountContext.cs",
+              "RelativeToolTip": "TestAccountContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:57:46.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\Term5\\PE\\PRN212\\Test-Account-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:54:50.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
